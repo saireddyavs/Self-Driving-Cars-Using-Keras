@@ -50,7 +50,7 @@
 70 minutes of data ~ 223GB
 Format: Image, latitude, longitude, gear, brake, throttle, steering angles and speed<br>
 -  [Udacity Dataset:](https://github.com/udacity/self-driving-car/tree/master/datasets) Dataset ranging from 40 to 183 GB in different conditions
--  [Comma.ai Dataset [80 GB Uncompressed]](https://github.com/commaai/research)
+-  [Comma.ai Dataset ](https://github.com/commaai/research)[80 GB Uncompressed]
 - [Apollo Dataset](http://data.apollo.auto/?locale=en-us&lang=en) with different environment data of road
 
 ### Credits & Inspired By
