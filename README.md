@@ -1,9 +1,8 @@
 # Self-Driving-Cars-Using-Keras
 
 ## Demo
-<img src="https://github.com/saireddyavs/Self-Driving-Cars-Using-Keras/blob/master/Demo.mp4"/>
+<img src="https://github.com/saireddyavs/Self-Driving-Cars-Using-Keras/blob/master/Demo.gif"/>
 
-!(Demo)[https://github.com/saireddyavs/Self-Driving-Cars-Using-Keras/blob/master/Demo.mp4]
 
 
 ## Dataset
